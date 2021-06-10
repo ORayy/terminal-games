@@ -25,5 +25,5 @@ def user_selection(user_input):
             return(f'Guess Lower, the random number is {random_num}')
         break
 
-# calling function
+# calling user_selection(user_input) function
 print(user_selection(user_input))
